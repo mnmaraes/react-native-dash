@@ -5,14 +5,14 @@
   <key>CFBundleIdentifier</key>
   <string>Facebook</string>
   <key>CFBundleName</key>
-  <string>React</string>
+  <string>React Native</string>
   <key>DocSetPlatformFamily</key>
-  <string>React</string>
+  <string>React Native</string>
   <key>isDashDocset</key>
   <true/>
   <key>isJavaScriptEnabled</key>
   <true/>
   <key>dashIndexFilePath</key>
-  <string>react/index.html</string>
+  <string>react-native/index.html</string>
 </dict>
 </plist>

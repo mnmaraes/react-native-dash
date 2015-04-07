@@ -5,7 +5,7 @@ var indexedFiles = require('./indexedFiles');
 // remove the left column and the nav bar so that it fits dash's usually small
 // browser screen
 indexedFiles.forEach(function(a, i) {
-  var path = __dirname + '/../Contents/Resources/Documents/react/docs/' +
+  var path = __dirname + '/../Contents/Resources/Documents/react-native/docs/' +
     a.name + '.html';
   var src = fs.readFileSync(path, 'utf8');
   var $ = cheerio.load(src);

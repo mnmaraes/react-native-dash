@@ -1,10 +1,10 @@
 {
-  "name": "react-dash",
+  "name": "react-native-dash",
   "version": "0.0.0",
-  "description": "React documentation source for [Dash](http://kapeli.com/dash)",
+  "description": "React Native Documentation Source for [Dash](http://kapeli.com/dash)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenglou/react-dash"
+    "url": "https://github.com/epitaphmike/react-native-dash"
   },
   "main": "src/index.js",
   "dependencies": {
@@ -17,6 +17,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "chenglou",
+  "author": "epitaphmike",
   "license": "ISC"
 }

@@ -3,11 +3,11 @@ var fs = require('fs');
 var flatten = require('lodash.flatten');
 var indexedFiles = require('./indexedFiles');
 
-// this assumes build1.sh has been run, and the react docs fetched into
-// Contents/Resources/Documents/React
+// this assumes build1.sh has been run, and the react-native docs fetched into
+// Contents/Resources/Documents/react-native
 function getData() {
   var res = indexedFiles.map(function(a) {
-    var path = __dirname + '/../Contents/Resources/Documents/react/docs/' +
+    var path = __dirname + '/../Contents/Resources/Documents/react-native/docs/' +
       a.name + '.html';
     var src = fs.readFileSync(path, 'utf-8');
     var $ = cheerio.load(src);
@@ -28,7 +28,7 @@ function getData() {
 
     // gosh I'm glad that DOM API's over
 
-    var url = 'react/docs/' + a.name + '.html#';
+    var url = 'react-native/docs/' + a.name + '.html#';
 
     var res = names.map(function(n, i) {
       return {
