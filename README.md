@@ -2,7 +2,7 @@
 
 **If you're looking for React Native documentations for Dash**: they're already in Preferences -> Downloads -> User Contributed. This repo is used to generate those docs. You don't need to touch it unless you want to contribute to it.
 
-To update the docset, please read the instructions [here](https://github.com/Kapeli/Dash-User-Contributions#contribute-a-new-docset) (more specifically, "Set up your directory structure"). To generate the docset for your Dash-User-Contributions pull quest, you'd use this repo.
+To update the docset, please read the instructions [here](https://github.com/Kapeli/Dash-User-Contributions#contribute-a-new-docset) (more specifically, "Set up your directory structure"). To generate the docset for your Dash-User-Contributions pull request, you'd use this repo.
 
 **Note**: if you do wish to update the docset, please notify me by [opening an issue](https://github.com/epitaphmike/react-native-dash/issues/new). I'd like to double check everything before you send it off to the Dash repo.
 

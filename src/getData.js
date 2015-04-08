@@ -3,7 +3,7 @@ var fs = require('fs');
 var flatten = require('lodash.flatten');
 var indexedFiles = require('./indexedFiles');
 
-// this assumes build1.sh has been run, and the react-native docs fetched into
+// this assumes build.sh has been run, and the react-native docs fetched into
 // Contents/Resources/Documents/react-native
 function getData() {
   var res = indexedFiles.map(function(a) {
@@ -12,7 +12,7 @@ function getData() {
     var src = fs.readFileSync(path, 'utf-8');
     var $ = cheerio.load(src);
 
-    var $headers = $('.inner-content h3, .inner-content h4');
+    var $headers = $('.inner-content h2, .inner-content h3');
 
     var names = [];
     var hashes = [];
