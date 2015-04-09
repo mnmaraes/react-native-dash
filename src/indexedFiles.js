@@ -1,13 +1,13 @@
 var indexedFiles = [
     // Guides
-    { name: 'style', type: 'Guides', toc: 'Property'},
-    { name: 'gesture-responder-system', type: 'Guides', toc: 'Property'},
-    { name: 'nativemodulesios', type: 'Guides', toc: 'Property'},
-    { name: 'linking-libraries', type: 'Guides', toc: 'Property'},
-    { name: 'debugging', type: 'Guides', toc: 'Property'},
-    { name: 'testing', type: 'Guides', toc: 'Property'},
-    { name: 'runningondevice', type: 'Guides', toc: 'Property'},
-    { name: 'embedded-app', type: 'Guides', toc: 'Property'},
+    { name: 'style', type: 'Guides', toc: 'Section'},
+    { name: 'gesture-responder-system', type: 'Guides', toc: 'Section'},
+    { name: 'nativemodulesios', type: 'Guides', toc: 'Section'},
+    { name: 'linking-libraries', type: 'Guides', toc: 'Section'},
+    { name: 'debugging', type: 'Guides', toc: 'Section'},
+    { name: 'testing', type: 'Guides', toc: 'Section'},
+    { name: 'runningondevice', type: 'Guides', toc: 'Section'},
+    { name: 'embedded-app', type: 'Guides', toc: 'Section'},
 
     // Components
     { name: 'activityindicatorios', type: 'Components', toc: 'Property'},
@@ -30,28 +30,28 @@ var indexedFiles = [
     { name: 'view', type: 'Components', toc: 'Property'},
     { name: 'webview', type: 'Components', toc: 'Property'},
 
-    //APIS
-    { name: 'alertios', type: 'APIS', toc: 'Property'},
-    { name: 'appregistry', type: 'APIS', toc: 'Property'},
-    { name: 'appstateios', type: 'APIS', toc: 'Property'},
-    { name: 'asyncstorage', type: 'APIS', toc: 'Property'},
-    { name: 'cameraroll', type: 'APIS', toc: 'Property'},
-    { name: 'interactionmanager', type: 'APIS', toc: 'Property'},
-    { name: 'layoutanimation', type: 'APIS', toc: 'Property'},
-    { name: 'linkingios', type: 'APIS', toc: 'Property'},
-    { name: 'netinfo', type: 'APIS', toc: 'Property'},
-    { name: 'panresponder', type: 'APIS', toc: 'Property'},
-    { name: 'pixelratio', type: 'APIS', toc: 'Property'},
-    { name: 'pushnotificationios', type: 'APIS', toc: 'Property'},
-    { name: 'statusbarios', type: 'APIS', toc: 'Property'},
-    { name: 'stylesheet', type: 'APIS', toc: 'Property'},
-    { name: 'vibrationios', type: 'APIS', toc: 'Property'},
+    //APIs - Library until APIs is available in Dash
+    { name: 'alertios', type: 'Library', toc: 'Property'},
+    { name: 'appregistry', type: 'Library', toc: 'Property'},
+    { name: 'appstateios', type: 'Library', toc: 'Property'},
+    { name: 'asyncstorage', type: 'Library', toc: 'Property'},
+    { name: 'cameraroll', type: 'Library', toc: 'Property'},
+    { name: 'interactionmanager', type: 'Library', toc: 'Property'},
+    { name: 'layoutanimation', type: 'Library', toc: 'Property'},
+    { name: 'linkingios', type: 'Library', toc: 'Property'},
+    { name: 'netinfo', type: 'Library', toc: 'Property'},
+    { name: 'panresponder', type: 'Library', toc: 'Property'},
+    { name: 'pixelratio', type: 'Library', toc: 'Property'},
+    { name: 'pushnotificationios', type: 'Library', toc: 'Property'},
+    { name: 'statusbarios', type: 'Library', toc: 'Property'},
+    { name: 'stylesheet', type: 'Library', toc: 'Property'},
+    { name: 'vibrationios', type: 'Library', toc: 'Property'},
 
-    //Polyfills
-    { name: 'flexbox', type: 'Polyfills', toc: 'Property'},
-    { name: 'geolocation', type: 'Polyfills', toc: 'Property'},
-    { name: 'network', type: 'Polyfills', toc: 'Property'},
-    { name: 'timers', type: 'Polyfills', toc: 'Property'},
+    //Polyfills - Extension until Polyfills is available in Dash
+    { name: 'flexbox', type: 'Extension', toc: 'Property'},
+    { name: 'geolocation', type: 'Extension', toc: 'Property'},
+    { name: 'network', type: 'Extension', toc: 'Property'},
+    { name: 'timers', type: 'Extension', toc: 'Property'},
 
 ];
 
