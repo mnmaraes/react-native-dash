@@ -8,6 +8,8 @@
   <string>React Native 0.3.1</string>
   <key>DocSetPlatformFamily</key>
   <string>React Native 0.3.1</string>
+  <key>DashDocSetFamily</key>
+  <string>dashtoc</string>
   <key>isDashDocset</key>
   <true/>
   <key>isJavaScriptEnabled</key>
