@@ -1,8 +1,8 @@
 # [React Native](http://facebook.github.io/react-native/) documentation for [Dash](http://kapeli.com/dash)
 
-## Installation
+## Installation in Dash
 
-**To install the React Native documentation in Dash, go to:
+**To install the React Native documentation in Dash, go to:**
 
 Preferences >> Downloads >> User Contributed
 
@@ -12,7 +12,7 @@ To update the docset, please read the instructions [here](https://github.com/Kap
 
 **Note**: If you do wish to update the docset, please notify me by [opening an issue](https://github.com/epitaphmike/react-native-dash/issues/new). I'd like to double check everything before you send it off to the Dash repo.
 
-## Instructions
+## Docset Manual Build Instructions
 
 Prerequisites: wget, node and sqlite3. For OS X:
 
