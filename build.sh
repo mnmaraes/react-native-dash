@@ -1,6 +1,6 @@
 # clean up previous remains, if any
 rm -rf Contents/Resources
-rm -rf ReactNative.docset
+rm -rf React_Native.docset
 mkdir -p Contents/Resources/Documents
 # create a fresh sqlite db
 cd Contents/Resources
@@ -19,6 +19,6 @@ node src/modifyDocsHTML.js
 # read the previously fetched doc site and parse it into sqlite
 node src/index.js
 # bundle up!
-mkdir ReactNative.docset
-cp -r Contents ReactNative.docset
-cp src/icon* ReactNative.docset
+mkdir React_Native.docset
+cp -r Contents React_Native.docset
+cp src/icon* React_Native.docset

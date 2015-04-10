@@ -5,9 +5,9 @@
   <key>CFBundleIdentifier</key>
   <string>Facebook</string>
   <key>CFBundleName</key>
-  <string>React Native 0.3.1</string>
+  <string>React Native</string>
   <key>DocSetPlatformFamily</key>
-  <string>React Native 0.3.1</string>
+  <string>React Native</string>
   <key>DashDocSetFamily</key>
   <string>dashtoc</string>
   <key>isDashDocset</key>

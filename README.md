@@ -1,10 +1,10 @@
-# [React Native](http://facebook.github.io/react-native/) [Dash](http://kapeli.com/dash) Documentation
+# [React Native](http://facebook.github.io/react-native/) documentation for [Dash](http://kapeli.com/dash)
 
-**If you're looking for React Native documentation for Dash**:
+## Installation
 
-They are located in
+**To install the React Native documentation in Dash, go to:
 
-- Preferences >> Downloads >> User Contributed
+Preferences >> Downloads >> User Contributed
 
 This repo is used to generate those docs. You don't need to touch it unless you want to contribute to it.
 
@@ -28,8 +28,8 @@ The script will:
 
 - Fetch the newest released React documentation from http://facebook.github.io/react-native/.
 - Parse the doc site into a new SQLite database for Dash. The list of files are hardcoded. Please check `src/index.js` for more detail.
-- Bundle up the result in a ReactNative.docset.
+- Bundle up the result in a React_Native.docset.
 
-Test the output by clicking on ReactNative.docset (importing it into Dash). Then, like it said on [Dash User Contributions](https://github.com/Kapeli/Dash-User-Contributions#contribute-a-new-docset):
+Test the output by clicking on React_Native.docset (importing it into Dash). Then, like it said on [Dash User Contributions](https://github.com/Kapeli/Dash-User-Contributions#contribute-a-new-docset):
 
-    tar --exclude='.DS_Store' -cvzf ReactNative.tgz ReactNative.docset
+    tar --exclude='.DS_Store' -cvzf React_Native.tgz React_Native.docset
