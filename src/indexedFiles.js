@@ -3,11 +3,13 @@ var indexedFiles = [
     { name: 'style', type: 'Guides', toc: 'Section'},
     { name: 'gesture-responder-system', type: 'Guides', toc: 'Section'},
     { name: 'nativemodulesios', type: 'Guides', toc: 'Section'},
+    { name: 'nativecomponentsios', type: 'Guides', toc: 'Section'},
     { name: 'linking-libraries', type: 'Guides', toc: 'Section'},
     { name: 'debugging', type: 'Guides', toc: 'Section'},
     { name: 'testing', type: 'Guides', toc: 'Section'},
     { name: 'runningondevice', type: 'Guides', toc: 'Section'},
     { name: 'embedded-app', type: 'Guides', toc: 'Section'},
+    { name: 'javascript-environment', type: 'Guides', toc: 'Section'},
 
     // Components
     { name: 'activityindicatorios', type: 'Components', toc: 'Property'},
@@ -22,6 +24,7 @@ var indexedFiles = [
     { name: 'sliderios', type: 'Components', toc: 'Property'},
     { name: 'switchios', type: 'Components', toc: 'Property'},
     { name: 'tabbarios', type: 'Components', toc: 'Property'},
+    { name: 'tabbarios-item', type: 'Components', toc: 'Property'},
     { name: 'text', type: 'Components', toc: 'Property'},
     { name: 'textinput', type: 'Components', toc: 'Property'},
     { name: 'touchablehighlight', type: 'Components', toc: 'Property'},
