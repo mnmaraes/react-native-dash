@@ -1,5 +1,8 @@
 var indexedFiles = [
     // Guides
+    { name: 'getting-started', type: 'Guides', toc: 'Section'},
+    { name: 'troubleshooting', type: 'Guides', toc: 'Section'},
+    { name: 'tutorial', type: 'Guides', toc: 'Section'},
     { name: 'style', type: 'Guides', toc: 'Section'},
     { name: 'gesture-responder-system', type: 'Guides', toc: 'Section'},
     { name: 'nativemodulesios', type: 'Guides', toc: 'Section'},
@@ -10,6 +13,7 @@ var indexedFiles = [
     { name: 'runningondevice', type: 'Guides', toc: 'Section'},
     { name: 'embedded-app', type: 'Guides', toc: 'Section'},
     { name: 'javascript-environment', type: 'Guides', toc: 'Section'},
+    // videos.html is not included in the indexed files
 
     // Components
     { name: 'activityindicatorios', type: 'Components', toc: 'Property'},
@@ -21,6 +25,7 @@ var indexedFiles = [
     { name: 'navigatorios', type: 'Components', toc: 'Property'},
     { name: 'pickerios', type: 'Components', toc: 'Property'},
     { name: 'scrollview', type: 'Components', toc: 'Property'},
+    { name: 'segmentedcontrolios', type: 'Components', toc: 'Property'},
     { name: 'sliderios', type: 'Components', toc: 'Property'},
     { name: 'switchios', type: 'Components', toc: 'Property'},
     { name: 'tabbarios', type: 'Components', toc: 'Property'},
@@ -30,6 +35,7 @@ var indexedFiles = [
     { name: 'touchablehighlight', type: 'Components', toc: 'Property'},
     { name: 'touchableopacity', type: 'Components', toc: 'Property'},
     { name: 'touchablewithoutfeedback', type: 'Components', toc: 'Property'},
+    { name: 'transforms', type: 'Components', toc: 'Property'},
     { name: 'view', type: 'Components', toc: 'Property'},
     { name: 'webview', type: 'Components', toc: 'Property'},
 
