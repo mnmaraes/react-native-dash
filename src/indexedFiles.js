@@ -8,15 +8,17 @@ var indexedFiles = [
     { name: 'gesture-responder-system', type: 'Guides', toc: 'Section'},
     // new on 07/19/2015
     { name: 'animations', type: 'Guides', toc: 'Section'},
-    { name: 'nativemodulesios', type: 'Guides', toc: 'Section'},
-    { name: 'nativecomponentsios', type: 'Guides', toc: 'Section'},
+    // new on 07/28/2015
+    { name: 'accessibility', type: 'Guides', toc: 'Section'},
+    { name: 'native-modules-ios', type: 'Guides', toc: 'Section'},
+    { name: 'native-components-ios', type: 'Guides', toc: 'Section'},
     // new on 06/18/2015
     { name: 'direct-manipulation', type: 'Guides', toc: 'Section'},
-    { name: 'linking-libraries', type: 'Guides', toc: 'Section'},
+    { name: 'linking-libraries-ios', type: 'Guides', toc: 'Section'},
     { name: 'debugging', type: 'Guides', toc: 'Section'},
     { name: 'testing', type: 'Guides', toc: 'Section'},
-    { name: 'runningondevice', type: 'Guides', toc: 'Section'},
-    { name: 'embedded-app', type: 'Guides', toc: 'Section'},
+    { name: 'running-on-device-ios', type: 'Guides', toc: 'Section'},
+    { name: 'embedded-app-ios', type: 'Guides', toc: 'Section'},
     { name: 'javascript-environment', type: 'Guides', toc: 'Section'},
     // new on 06/17/2015
     { name: 'navigator-comparison', type: 'Guides', toc: 'Section'},
