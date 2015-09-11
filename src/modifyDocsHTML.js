@@ -1,16 +1,18 @@
 var cheerio = require('cheerio');
 var fs = require('fs');
+var config = require('./config');
 var indexedFiles = require('./indexedFiles');
 
 // remove the left column and the nav bar so that it fits dash's usually small
 // browser screen
 indexedFiles.forEach(function(array, index) {
     //console.log(array);
-    var path = __dirname + '/../Contents/Resources/Documents/react-native/docs/' + array.name + '.html';
+    var path = __dirname + '/../Contents/Resources/Documents/' + config.name + '/docs/' + array.name + '.html';
     var src = fs.readFileSync(path, 'utf8');
     var $ = cheerio.load(src);
 
-    var $headers = $('.inner-content h2, .inner-content h3'); //Native Modules (iOS) Callbacks is an h1. facebook?
+    var headerClasses = config.pageSubHeaders.toString();
+    var $headers = $(headerClasses);
 
     $headers.each(function(index, elem) {
         $('.edit-github').remove();

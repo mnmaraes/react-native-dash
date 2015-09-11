@@ -12,7 +12,7 @@ var sequelize = new Sequelize('database', null, null, {
 var searchIndex = sequelize.define(
   'searchIndex',
   {
-    id: {type: Sequelize.INTEGER, autoIncrement: true},
+    id: {type: Sequelize.INTEGER, autoIncrement: true, primaryKey: true},
     name: {type: Sequelize.STRING},
     type: {type: Sequelize.STRING},
     path: {type: Sequelize.STRING},
