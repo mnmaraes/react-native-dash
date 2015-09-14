@@ -5,6 +5,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "android-setup",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "tutorial",
         "type": "Guides",
         "toc": "Section"
@@ -35,7 +40,17 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "native-modules-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "native-components-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "native-components-android",
         "type": "Guides",
         "toc": "Section"
     },
@@ -65,6 +80,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "running-on-device-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "embedded-app-ios",
         "type": "Guides",
         "toc": "Section"
@@ -80,12 +100,22 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "known-issues",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "activityindicatorios",
         "type": "Components",
         "toc": "Property"
     },
     {
         "name": "datepickerios",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "drawerlayoutandroid",
         "type": "Components",
         "toc": "Property"
     },
@@ -125,6 +155,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "progressbarandroid",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "progressviewios",
         "type": "Components",
         "toc": "Property"
@@ -141,6 +176,11 @@ var indexedFiles = [
     },
     {
         "name": "sliderios",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "switchandroid",
         "type": "Components",
         "toc": "Property"
     },
@@ -170,7 +210,17 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "toolbarandroid",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "touchablehighlight",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "touchablenativefeedback",
         "type": "Components",
         "toc": "Property"
     },
@@ -225,6 +275,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "backandroid",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "cameraroll",
         "type": "Library",
         "toc": "Property"
@@ -271,6 +326,11 @@ var indexedFiles = [
     },
     {
         "name": "stylesheet",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "toastandroid",
         "type": "Library",
         "toc": "Property"
     },

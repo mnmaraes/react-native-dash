@@ -1,6 +1,6 @@
 {
   "name": "react-native-dash",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "React Native Documentation Source for Dash (http://kapeli.com/dash)",
   "repository": {
     "type": "git",
@@ -18,7 +18,9 @@
     "React",
     "Reactjs",
     "Facebook",
-    "javascript"
+    "javascript",
+    "iOS",
+    "android"
   ],
   "devDependencies": {},
   "scripts": {

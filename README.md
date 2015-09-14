@@ -26,9 +26,9 @@ Clone this repo, `cd` into it and do:
 
 The script will:
 
-- Fetch the newest released React documentation from http://facebook.github.io/react-native/.
+- Fetch the newest released React Native documentation from http://facebook.github.io/react-native/.
 - Parse the doc site into a new SQLite database for Dash. The list of files are hardcoded. Please check `src/index.js` for more detail.
 - Bundle up the result in a React_Native.docset.
 - GZip for Dash contribution
 
-Test the output by loading the Relay.docset (importing it into Dash).
+Test the output by loading the React_Native.docset (importing it into Dash).
