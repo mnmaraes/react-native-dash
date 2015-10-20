@@ -35,32 +35,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "native-modules-ios",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "native-modules-android",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "native-components-ios",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "native-components-android",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
         "name": "direct-manipulation",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "linking-libraries-ios",
         "type": "Guides",
         "toc": "Section"
     },
@@ -71,21 +46,6 @@ var indexedFiles = [
     },
     {
         "name": "testing",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "running-on-device-ios",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "running-on-device-android",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "embedded-app-ios",
         "type": "Guides",
         "toc": "Section"
     },
@@ -101,6 +61,61 @@ var indexedFiles = [
     },
     {
         "name": "known-issues",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "performance",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "native-modules-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "native-components-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "linking-libraries-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "running-on-device-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "embedded-app-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "native-modules-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "native-components-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "running-on-device-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "embedded-app-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "signed-apk-android",
         "type": "Guides",
         "toc": "Section"
     },
@@ -240,6 +255,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "viewpagerandroid",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "webview",
         "type": "Components",
         "toc": "Property"
@@ -285,6 +305,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "dimensions",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "interactionmanager",
         "type": "Library",
         "toc": "Property"
@@ -296,6 +321,11 @@ var indexedFiles = [
     },
     {
         "name": "linkingios",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "nativemethodsmixin",
         "type": "Library",
         "toc": "Property"
     },
