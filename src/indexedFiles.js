@@ -10,6 +10,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "linux-windows-support",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "tutorial",
         "type": "Guides",
         "toc": "Section"
@@ -66,6 +71,11 @@ var indexedFiles = [
     },
     {
         "name": "performance",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "upgrading",
         "type": "Guides",
         "toc": "Section"
     },
