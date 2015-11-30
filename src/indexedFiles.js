@@ -25,6 +25,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "images",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "gesture-responder-system",
         "type": "Guides",
         "toc": "Section"
@@ -80,6 +85,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "platform-specific-code",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "native-modules-ios",
         "type": "Guides",
         "toc": "Section"
@@ -130,6 +140,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "android-ui-performance",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "activityindicatorios",
         "type": "Components",
         "toc": "Property"
@@ -160,12 +175,12 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "navigator",
+        "name": "modal",
         "type": "Components",
         "toc": "Property"
     },
     {
-        "name": "modal",
+        "name": "navigator",
         "type": "Components",
         "toc": "Property"
     },
