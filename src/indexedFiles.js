@@ -115,6 +115,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "communication-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "native-modules-android",
         "type": "Guides",
         "toc": "Section"
@@ -141,6 +146,11 @@ var indexedFiles = [
     },
     {
         "name": "android-ui-performance",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "android-building-from-source",
         "type": "Guides",
         "toc": "Section"
     },
