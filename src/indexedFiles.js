@@ -205,12 +205,27 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "picker",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "progressbarandroid",
         "type": "Components",
         "toc": "Property"
     },
     {
         "name": "progressviewios",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "pulltorefreshviewandroid",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "refreshcontrol",
         "type": "Components",
         "toc": "Property"
     },
@@ -230,12 +245,7 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "switchandroid",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
-        "name": "switchios",
+        "name": "switch",
         "type": "Components",
         "toc": "Property"
     },
@@ -305,6 +315,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "alert",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "alertios",
         "type": "Library",
         "toc": "Property"
@@ -321,6 +336,11 @@ var indexedFiles = [
     },
     {
         "name": "appstateios",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "appstate",
         "type": "Library",
         "toc": "Property"
     },
@@ -345,12 +365,22 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "intentandroid",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "interactionmanager",
         "type": "Library",
         "toc": "Property"
     },
     {
         "name": "layoutanimation",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "linking",
         "type": "Library",
         "toc": "Property"
     },
@@ -421,6 +451,11 @@ var indexedFiles = [
     },
     {
         "name": "timers",
+        "type": "Extension",
+        "toc": "Property"
+    },
+    {
+        "name": "colors",
         "type": "Extension",
         "toc": "Property"
     }
