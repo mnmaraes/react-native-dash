@@ -5,6 +5,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "getting-started-on-linux",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "android-setup",
         "type": "Guides",
         "toc": "Section"
@@ -365,6 +370,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "datepickerandroid",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "dimensions",
         "type": "Library",
         "toc": "Property"
@@ -430,6 +440,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "timepickerandroid",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "toastandroid",
         "type": "Library",
         "toc": "Property"
@@ -441,6 +456,11 @@ var indexedFiles = [
     },
     {
         "name": "flexbox",
+        "type": "Extension",
+        "toc": "Property"
+    },
+    {
+        "name": "shadowproptypesios",
         "type": "Extension",
         "toc": "Property"
     },
