@@ -245,6 +245,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "statusbar",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "switch",
         "type": "Components",
         "toc": "Property"
