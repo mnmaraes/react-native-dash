@@ -18,6 +18,7 @@ $section.each(function(i, elem){
 
     $sectionLink.each(function(i, elem){
         var page = {};
+        var excludeArray = $(this).text();
 
         if(config.ignoreSection.sectionsArray.indexOf($sectionHeader) !== -1) {
             return;
@@ -27,7 +28,7 @@ $section.each(function(i, elem){
         // substring removes last 13 characters '.html#content' from href.
         page.name = $(this).attr('href').substring(0, $(this).attr('href').length - 13);
 
-        if(config.ignorePage.pagesArray.indexOf(page.name) !== -1) {
+        if(config.ignorePage.pagesArray.indexOf(excludeArray) !== -1) {
             return;
         }
 

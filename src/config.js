@@ -12,7 +12,7 @@ var config = {
         "sectionsArray" : []
     },
     "ignorePage" : {
-        "pagesArray" : ["videos"]
+        "pagesArray" : ["Videos", "Newsletter"]
     }
 }
 

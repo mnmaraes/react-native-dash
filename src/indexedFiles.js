@@ -5,7 +5,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "getting-started-on-linux",
+        "name": "getting-started-linux",
         "type": "Guides",
         "toc": "Section"
     },
@@ -225,11 +225,6 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "pulltorefreshviewandroid",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
         "name": "refreshcontrol",
         "type": "Components",
         "toc": "Property"
@@ -370,6 +365,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "clipboard",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "datepickerandroid",
         "type": "Library",
         "toc": "Property"
@@ -451,6 +451,11 @@ var indexedFiles = [
     },
     {
         "name": "vibrationios",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "vibration",
         "type": "Library",
         "toc": "Property"
     },
