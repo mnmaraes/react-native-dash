@@ -1,5 +1,7 @@
 # [React Native](http://facebook.github.io/react-native/) documentation for [Dash](http://kapeli.com/dash)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/react-native-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/react-native-dash)
+
 ## Installation in Dash
 
 **To install the React Native documentation in Dash, go to:**
