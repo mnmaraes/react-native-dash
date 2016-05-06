@@ -240,6 +240,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "slider",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "sliderios",
         "type": "Components",
         "toc": "Property"
