@@ -5,22 +5,17 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "getting-started-linux",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "android-setup",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "linux-windows-support",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
         "name": "tutorial",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "props",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "state",
         "type": "Guides",
         "toc": "Section"
     },
@@ -30,12 +25,62 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "height-and-width",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "flexbox",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "handling-text-input",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "using-a-scrollview",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "using-a-listview",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "network",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "using-navigators",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "more-resources",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "integration-with-existing-apps",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "colors",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "images",
         "type": "Guides",
         "toc": "Section"
     },
     {
-        "name": "gesture-responder-system",
+        "name": "handling-touches",
         "type": "Guides",
         "toc": "Section"
     },
@@ -46,6 +91,11 @@ var indexedFiles = [
     },
     {
         "name": "accessibility",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "timers",
         "type": "Guides",
         "toc": "Section"
     },
@@ -70,12 +120,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "navigator-comparison",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "known-issues",
+        "name": "navigation",
         "type": "Guides",
         "toc": "Section"
     },
@@ -91,6 +136,11 @@ var indexedFiles = [
     },
     {
         "name": "platform-specific-code",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "gesture-responder-system",
         "type": "Guides",
         "toc": "Section"
     },
@@ -115,7 +165,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "embedded-app-ios",
+        "name": "running-on-simulator-ios",
         "type": "Guides",
         "toc": "Section"
     },
@@ -140,11 +190,6 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "embedded-app-android",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
         "name": "signed-apk-android",
         "type": "Guides",
         "toc": "Section"
@@ -160,7 +205,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "activityindicatorios",
+        "name": "activityindicator",
         "type": "Components",
         "toc": "Property"
     },
@@ -345,11 +390,6 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "appstateios",
-        "type": "Library",
-        "toc": "Property"
-    },
-    {
         "name": "appstate",
         "type": "Library",
         "toc": "Property"
@@ -385,6 +425,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "geolocation",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "intentandroid",
         "type": "Library",
         "toc": "Property"
@@ -401,11 +446,6 @@ var indexedFiles = [
     },
     {
         "name": "linking",
-        "type": "Library",
-        "toc": "Property"
-    },
-    {
-        "name": "linkingios",
         "type": "Library",
         "toc": "Property"
     },
@@ -465,33 +505,13 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "flexbox",
-        "type": "Extension",
+        "name": "layout-props",
+        "type": "Library",
         "toc": "Property"
     },
     {
-        "name": "shadowproptypesios",
-        "type": "Extension",
-        "toc": "Property"
-    },
-    {
-        "name": "geolocation",
-        "type": "Extension",
-        "toc": "Property"
-    },
-    {
-        "name": "network",
-        "type": "Extension",
-        "toc": "Property"
-    },
-    {
-        "name": "timers",
-        "type": "Extension",
-        "toc": "Property"
-    },
-    {
-        "name": "colors",
-        "type": "Extension",
+        "name": "shadow-props",
+        "type": "Library",
         "toc": "Property"
     }
 ];

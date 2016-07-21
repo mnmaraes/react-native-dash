@@ -25,8 +25,8 @@ $section.each(function(i, elem){
         }
 
         // $(this).attr('href') returns ie.(guides-containers.html#content)
-        // substring removes last 13 characters '.html#content' from href.
-        page.name = $(this).attr('href').substring(0, $(this).attr('href').length - 13);
+        // substring removes last 5 characters '.html' from href.
+        page.name = $(this).attr('href').substring(0, $(this).attr('href').length - 5);
 
         if(config.ignorePage.pagesArray.indexOf(excludeArray) !== -1) {
             return;

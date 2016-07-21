@@ -20,7 +20,7 @@ function getData() {
 
             var name = $($(elem).contents()).text();
 
-            names.push(name.trim());
+            names.push(name.trim().substring(0, name.length - 2));
         });
 
         var url = config.name + '/docs/' + array.name + '.html#';
@@ -40,9 +40,3 @@ function getData() {
 }
 
 module.exports = getData;
-
-
-
-
-
-
