@@ -23,6 +23,11 @@ indexedFiles.forEach(function(array, index) {
         $.html();
     });
 
+    // Update cdn url to display iframes.
+    $("iframe[data-src*='//cdn.rawgit.com']").each(function() {
+        $(this).attr('data-src', $(this).attr('data-src').replace('//cdn.rawgit.com','http://cdn.rawgit.com'));
+    });
+
     $('.nav-main').remove();
     $('.nav-docs').remove();
     $('.container').attr('style', 'min-width:inherit;padding-top:0');

@@ -210,6 +210,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "activityindicatorios",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "datepickerios",
         "type": "Components",
         "toc": "Property"
@@ -221,6 +226,11 @@ var indexedFiles = [
     },
     {
         "name": "image",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "keyboardavoidingview",
         "type": "Components",
         "toc": "Property"
     },
@@ -250,12 +260,12 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "pickerios",
+        "name": "picker",
         "type": "Components",
         "toc": "Property"
     },
     {
-        "name": "picker",
+        "name": "pickerios",
         "type": "Components",
         "toc": "Property"
     },
@@ -300,7 +310,22 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "snapshotviewios",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "switch",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "switchandroid",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "switchios",
         "type": "Components",
         "toc": "Property"
     },
@@ -370,6 +395,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "adsupportios",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "alert",
         "type": "Library",
         "toc": "Property"
@@ -425,7 +455,27 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "easing",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "geolocation",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "imageeditor",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "imagepickerios",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "imagestore",
         "type": "Library",
         "toc": "Property"
     },
@@ -455,12 +505,22 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "nativemodules",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "netinfo",
         "type": "Library",
         "toc": "Property"
     },
     {
         "name": "panresponder",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "permissionsandroid",
         "type": "Library",
         "toc": "Property"
     },
@@ -475,12 +535,22 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "settings",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
         "name": "statusbarios",
         "type": "Library",
         "toc": "Property"
     },
     {
         "name": "stylesheet",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "systrace",
         "type": "Library",
         "toc": "Property"
     },
@@ -495,12 +565,12 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "vibrationios",
+        "name": "vibration",
         "type": "Library",
         "toc": "Property"
     },
     {
-        "name": "vibration",
+        "name": "vibrationios",
         "type": "Library",
         "toc": "Property"
     },
