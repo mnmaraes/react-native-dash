@@ -185,6 +185,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "headless-js-android",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "running-on-device-android",
         "type": "Guides",
         "toc": "Section"
@@ -210,7 +215,7 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "activityindicatorios",
+        "name": "button",
         "type": "Components",
         "toc": "Property"
     },
@@ -300,7 +305,7 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "sliderios",
+        "name": "snapshotviewios",
         "type": "Components",
         "toc": "Property"
     },
@@ -310,22 +315,7 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "snapshotviewios",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
         "name": "switch",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
-        "name": "switchandroid",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
-        "name": "switchios",
         "type": "Components",
         "toc": "Property"
     },
@@ -480,12 +470,12 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "intentandroid",
+        "name": "interactionmanager",
         "type": "Library",
         "toc": "Property"
     },
     {
-        "name": "interactionmanager",
+        "name": "keyboard",
         "type": "Library",
         "toc": "Property"
     },
@@ -501,11 +491,6 @@ var indexedFiles = [
     },
     {
         "name": "nativemethodsmixin",
-        "type": "Library",
-        "toc": "Property"
-    },
-    {
-        "name": "nativemodules",
         "type": "Library",
         "toc": "Property"
     },

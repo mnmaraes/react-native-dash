@@ -1,6 +1,6 @@
 {
   "name": "react-native-dash",
-  "version": "0.35.0",
+  "version": "0.37.0",
   "description": "React Native Documentation Source for Dash (http://kapeli.com/dash)",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
     "cheerio": "^0.19.0",
     "lodash.flatten": "^3.0.2",
     "sequelize": "^3.0.0",
-    "sqlite3": "^3.0.9"
+    "sqlite3": "^3.1.8"
   },
   "keywords": [
     "ReactNative",
