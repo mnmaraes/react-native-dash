@@ -115,6 +115,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "running-on-device",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "javascript-environment",
         "type": "Guides",
         "toc": "Section"
@@ -160,11 +165,6 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "running-on-device-ios",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
         "name": "running-on-simulator-ios",
         "type": "Guides",
         "toc": "Section"
@@ -186,11 +186,6 @@ var indexedFiles = [
     },
     {
         "name": "headless-js-android",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "running-on-device-android",
         "type": "Guides",
         "toc": "Section"
     },
