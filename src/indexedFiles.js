@@ -135,6 +135,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "understanding-cli",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "upgrading",
         "type": "Guides",
         "toc": "Section"
@@ -516,6 +521,11 @@ var indexedFiles = [
     },
     {
         "name": "settings",
+        "type": "Library",
+        "toc": "Property"
+    },
+    {
+        "name": "share",
         "type": "Library",
         "toc": "Property"
     },
