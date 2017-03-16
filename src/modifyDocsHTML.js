@@ -30,6 +30,8 @@ indexedFiles.forEach(function(array, index) {
 
     $('.nav-main').remove();
     $('.nav-docs').remove();
+    $('.nav-footer, .edit-page-block').remove();
+    
     $('.container').attr('style', 'min-width:inherit;padding-top:0');
     $('.wrap').attr('style', 'width:inherit;');
     $('.inner-content').attr('style', 'float:none;margin:auto;');
