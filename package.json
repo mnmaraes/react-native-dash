@@ -10,8 +10,9 @@
   "dependencies": {
     "cheerio": "^0.19.0",
     "lodash.flatten": "^3.0.2",
-    "sequelize": "^3.0.0",
-    "sqlite3": "^3.1.8"
+    "sequelize": "^3.24.3",
+    "sqlite3": "^3.1.8",
+    "snyk": "^1.25.2"
   },
   "keywords": [
     "ReactNative",
@@ -24,12 +25,15 @@
   ],
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "snyk test",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "Michael Sharer <m@29degre.es> (http://29degre.es)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/epitaphmike/react-native-dash/issues"
   },
-  "homepage": "https://github.com/epitaphmike/react-native-dash"
+  "homepage": "https://github.com/epitaphmike/react-native-dash",
+  "snyk": true
 }
