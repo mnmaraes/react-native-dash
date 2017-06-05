@@ -220,6 +220,11 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "flatlist",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "image",
         "type": "Components",
         "toc": "Property"
@@ -235,17 +240,7 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
-        "name": "mapview",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
         "name": "modal",
-        "type": "Components",
-        "toc": "Property"
-    },
-    {
-        "name": "navigator",
         "type": "Components",
         "toc": "Property"
     },
@@ -281,6 +276,11 @@ var indexedFiles = [
     },
     {
         "name": "scrollview",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
+        "name": "sectionlist",
         "type": "Components",
         "toc": "Property"
     },
@@ -365,9 +365,19 @@ var indexedFiles = [
         "toc": "Property"
     },
     {
+        "name": "virtualizedlist",
+        "type": "Components",
+        "toc": "Property"
+    },
+    {
         "name": "webview",
         "type": "Components",
         "toc": "Property"
+    },
+    {
+        "name": "accessibilityinfo",
+        "type": "Guides",
+        "toc": "Section"
     },
     {
         "name": "actionsheetios",
@@ -411,6 +421,11 @@ var indexedFiles = [
     },
     {
         "name": "backandroid",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "backhandler",
         "type": "Guides",
         "toc": "Section"
     },
