@@ -40,6 +40,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "handling-touches",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "using-a-scrollview",
         "type": "Guides",
         "toc": "Section"
@@ -60,12 +65,12 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "handling-touches",
+        "name": "components-and-apis",
         "type": "Guides",
         "toc": "Section"
     },
     {
-        "name": "animations",
+        "name": "platform-specific-code",
         "type": "Guides",
         "toc": "Section"
     },
@@ -80,17 +85,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "colors",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "platform-specific-code",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "debugging",
+        "name": "animations",
         "type": "Guides",
         "toc": "Section"
     },
@@ -105,12 +100,7 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "javascript-environment",
-        "type": "Guides",
-        "toc": "Section"
-    },
-    {
-        "name": "direct-manipulation",
+        "name": "debugging",
         "type": "Guides",
         "toc": "Section"
     },
@@ -125,12 +115,17 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
-        "name": "testing",
+        "name": "javascript-environment",
         "type": "Guides",
         "toc": "Section"
     },
     {
-        "name": "understanding-cli",
+        "name": "direct-manipulation",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "colors",
         "type": "Guides",
         "toc": "Section"
     },
@@ -146,6 +141,16 @@ var indexedFiles = [
     },
     {
         "name": "upgrading",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "testing",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "understanding-cli",
         "type": "Guides",
         "toc": "Section"
     },
@@ -171,6 +176,11 @@ var indexedFiles = [
     },
     {
         "name": "communication-ios",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "building-for-apple-tv",
         "type": "Guides",
         "toc": "Section"
     },
