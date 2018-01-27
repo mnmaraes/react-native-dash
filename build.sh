@@ -32,4 +32,4 @@ cp -r Contents React_Native.docset
 cp src/icon* React_Native.docset
 
 # Create gzip bundle for Dash Contribution
-tar --exclude='.DS_Store' -cvzf React_Native.tgz React_Native.docset
+#tar --exclude='.DS_Store' -cvzf React_Native.tgz React_Native.docset
