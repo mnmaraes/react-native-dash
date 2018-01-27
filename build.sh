@@ -17,9 +17,6 @@ mv facebook.github.io/react-native ./
 rm -rf facebook.github.io
 cd ../../../
 
-# Retrieve the content of the sidebar
-node updateIndexedFiles.js
-
 # create data file from base index page
 node src/createSectionJSON.js
 

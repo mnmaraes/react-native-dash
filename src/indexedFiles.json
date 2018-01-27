@@ -236,402 +236,402 @@
   },
   {
     "name": "activityindicator",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "button",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "datepickerios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "drawerlayoutandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "flatlist",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "image",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "keyboardavoidingview",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "listview",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "maskedviewios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "modal",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "navigatorios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "picker",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "pickerios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "progressbarandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "progressviewios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "refreshcontrol",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "scrollview",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "sectionlist",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "segmentedcontrolios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "slider",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "snapshotviewios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "statusbar",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "switch",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "tabbarios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "tabbarios-item",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "text",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "textinput",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "toolbarandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "touchablehighlight",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "touchablenativefeedback",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "touchableopacity",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "touchablewithoutfeedback",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "view",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "viewpagerandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "virtualizedlist",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "webview",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Components",
+    "toc": "Property"
   },
   {
     "name": "accessibilityinfo",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "actionsheetios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "alert",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "alertios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "animated",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "appregistry",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "appstate",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "asyncstorage",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "backandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "backhandler",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "cameraroll",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "clipboard",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "datepickerandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "dimensions",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "easing",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "geolocation",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "imageeditor",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "imagepickerios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "imagestore",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "image-style-props",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "interactionmanager",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "keyboard",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "layout-props",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "layoutanimation",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "linking",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "listviewdatasource",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "netinfo",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "panresponder",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "permissionsandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "pixelratio",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "pushnotificationios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "settings",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "shadow-props",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "share",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "statusbarios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "stylesheet",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "systrace",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "text-style-props",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "timepickerandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "toastandroid",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "transforms",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "vibration",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "vibrationios",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   },
   {
     "name": "view-style-props",
-    "type": "Guides",
-    "toc": "Section"
+    "type": "Library",
+    "toc": "Property"
   }
 ]
