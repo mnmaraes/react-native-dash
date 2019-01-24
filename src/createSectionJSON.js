@@ -11,10 +11,9 @@ $('div.navGroup').each(function (index, elem) {
   var sectionHeader = $(elem).find('h3').text()
 
   $(elem).find('li').each(function(i, li) {
-    var arr = $(li).find('a').attr('href').split(/\.|\//)
     var page = {};
 
-    page.name = arr[arr.length - 2]
+    page.name = $(li).find('a').attr('href').replace(/\.html$/, '').split('/').pop();
     switch (sectionHeader) {
         case 'Components':
             page.type = 'Components';
