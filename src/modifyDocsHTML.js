@@ -16,16 +16,26 @@ indexedFiles.forEach(function(array, index) {
   var src = fs.readFileSync(path, "utf8");
   var $ = cheerio.load(src);
 
-  var headerClasses = config.pageSubHeaders.toString();
-  var $headers = $(headerClasses);
-
-  $headers.each(function(index, elem) {
+  $(config.pageSectionHeader).each(function(index, elem) {
     $(".edit-github").remove();
-    var name = $(
-      $(elem)
-        .contents()
-        .get(1)
-    ).text();
+    var name = $(elem).text();
+
+    // TODO: Change "array.toc to somehting more relevant on a page-by-page basis in indexedFiles.js"
+    $(elem).prepend(
+      '<a name="//apple_ref/cpp/' +
+        "Section" +
+        "/" +
+        encodeURIComponent(name) +
+        '" class="dashAnchor"></a>'
+    );
+    $.html();
+  });
+
+  $(config.pagePropHeader).each(function(index, elem) {
+    $(".edit-github").remove();
+    var name = $(elem)
+      .children("code")
+      .text();
 
     // TODO: Change "array.toc to somehting more relevant on a page-by-page basis in indexedFiles.js"
     $(elem).prepend(
@@ -51,6 +61,8 @@ indexedFiles.forEach(function(array, index) {
   $(".fixedHeaderContainer").remove();
   $(".navGroup").remove();
   $(".docsNavContainer").remove();
+  $(".docs-prevnext").remove();
+  $(".nav-footer").remove();
 
   $(".navPusher").attr("style", "padding-top:0");
 
