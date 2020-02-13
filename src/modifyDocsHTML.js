@@ -33,9 +33,10 @@ indexedFiles.forEach(function(array, index) {
 
   $(config.pagePropHeader).each(function(index, elem) {
     $(".edit-github").remove();
-    var name = $(elem)
-      .children("code")
-      .text();
+    var name =
+      $(elem)
+        .children("code")
+        .text() || $(elem).text();
 
     // TODO: Change "array.toc to somehting more relevant on a page-by-page basis in indexedFiles.js"
     $(elem).prepend(
